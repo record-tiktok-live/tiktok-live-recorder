@@ -1,3 +1,15 @@
+<h1>Simplified App to Record TikTok Lives</h1>
+<p>If you're looking for an app that does all of this for you, checkout the Rewatch LIVE app. It autorecords TikTok LIVEs and saves everything to the cloud for you.</p>
+<a href="https://rewatchlive.com">Rewatch Live app site</a><br />
+<a href="https://apps.apple.com/us/app/rewatch-live-save-live-stream/id647518956)">Rewatch Live iOS App</a><br />
+<a href="https://play.google.com/store/apps/details?id=com.reactish.rewatchlive&hl=en&gl=US&pli=1">Rewatch Live Android app</a><br />
+<br />
+<br />
+<img src="https://github.com/record-tiktok-live/tiktok-live-recorder/blob/11ff0e31f825a419fe0cde1d3ed266cb26d7531e/rewatchlivelogo.png" width="100px" alt="image" border="0">
+
+<br />
+<hr />
+
 <div align="center">
 
 
@@ -8,8 +20,6 @@
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 The TikTok Live Recorder is a tool designed to easily capture and save live streaming sessions from TikTok. It records both audio and video, allowing users to revisit and preserve engaging live content for later enjoyment and analysis. It's a valuable resource for creators, researchers, and anyone who wants to capture memorable moments from TikTok live streams.
-
-<img src="https://i.ibb.co/YTHp5DT/image.png" alt="image" border="0">
 
 </div>
 
